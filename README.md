@@ -9,7 +9,7 @@ An interactive dashboard analyzing IPL team and player performance across multip
 <h2>🖼 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="C:\Users\yatis\Pictures\Screenshots\Screenshot 2026-03-09 201400.png" alt="IPL Dashboard" width="800">
+  <img src="ipl-dashboard.png" alt="IPL Dashboard" width="800">
 </p>
 
 <hr>

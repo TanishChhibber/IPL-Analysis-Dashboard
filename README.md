@@ -65,7 +65,7 @@ team performance, and match results used to generate meaningful insights.
 
 <hr>
 
-<h3 align="center">👨‍💻 Created by Your Name</h3>
+<h3 align="center">👨‍💻 Created by Tanish </h3>
 <p align="center">
 Data Analyst | SQL | Power BI | Excel | Python
 </p>

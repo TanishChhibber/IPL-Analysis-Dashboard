@@ -59,10 +59,6 @@ team performance, and match results used to generate meaningful insights.
 
 <h2>🚀 Project Repository</h2>
 
-<p>
-<a href="YOUR_GITHUB_REPO_LINK">🔗 View Full Project</a>
-</p>
-
 <hr>
 
 <h3 align="center">👨‍💻 Created by Tanish </h3>

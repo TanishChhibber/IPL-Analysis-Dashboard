@@ -55,12 +55,6 @@ The dataset contains historical IPL match data including player statistics,
 team performance, and match results used to generate meaningful insights.
 </p>
 
-<hr>
-
-<h2>🚀 Project Repository</h2>
-
-<hr>
-
 <h3 align="center">👨‍💻 Created by Tanish </h3>
 <p align="center">
 Data Analyst | SQL | Power BI | Excel | Python
